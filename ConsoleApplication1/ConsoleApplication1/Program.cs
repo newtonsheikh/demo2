@@ -11,5 +11,10 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
         }
+
+        void StartEngine()
+        {
+            Console.WriteLine("Start the eingine");
+        }
     }
 }
